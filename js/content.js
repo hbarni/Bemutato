@@ -6,8 +6,8 @@ class Content {
                //undefined
         //var tomb = [2,3];
         //res.write(tomb[3]);
-        var a; // szintén undefined típusa lesz
-        res.write(a);
+        //var a; // szintén undefined típusa lesz
+        //res.write(a);
 
         //null
         var i = null;
