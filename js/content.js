@@ -10,8 +10,8 @@ class Content {
         //res.write(a);
 
         //null
-        var i = null;
-        res.write(i);
+        //var i = null;
+        //res.write(i);
         
 
         res.write("<h1 style='color: blue;'>Teszt OK!</h1>");
